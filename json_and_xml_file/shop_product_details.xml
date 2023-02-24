@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<products>
+    <product imageurl0="/img/shop_s_product/4.jpg" imageurl1="/img/shop_s_product/1.jpg" 
+    imageurl2="/img/shop_s_product/2.jpg" imageurl3="/img/shop_s_product/3.jpg" 
+    imageurl4="/img/shop_s_product/5.jpg"> 
+
+        <id>101</id>
+        <name>METAL BUTTON CROPPED JACKET</name>
+        <price>2,990.00</price>
+        <productinfor>Jacket with lapel collar and long sleeves. Front patch pockets with flaps. Front metal snap button
+        closure.</productinfor>
+
+
+    </product>
+
+
+
+    <product imageurl0="/img/shop_s_product/p2_1.jpg" imageurl1="/img/shop_s_product/p2_2.jpg" 
+    imageurl2="/img/shop_s_product/p2_3.jpg" imageurl3="/img/shop_s_product/p2_1.jpg"> 
+
+    <id>102</id>
+
+        <name>SATIN TOP WITH TIE DETAI</name>
+        <price>2,250.00</price>
+        <productinfor>V-neck crop top with wide short sleeves. Gathered hem with tie detail. Invisible side zip fastening.</productinfor>
+
+
+    </product>
+
+
+    <product imageurl0="/img/shop_s_product/p3_1.jpg" imageurl1="/img/shop_s_product/p3_2.jpg" 
+    imageurl2="/img/shop_s_product/p3_3.jpg" imageurl3="/img/shop_s_product/p3_4.jpg" 
+   > 
+
+   <id>103</id>
+
+        <name>STRAIGHT FIT JEANS</name>
+        <price>1,800.00</price>
+        <productinfor>Straight fit jeans. Five pockets. Faded effect. Front zip fly and button fastening.</productinfor>
+
+
+    </product>
+
+
+    <product imageurl0="/img/shop_s_product/p4_1.jpg" imageurl1="/img/shop_s_product/p4_2.jpg" 
+    imageurl2="/img/shop_s_product/p4_3.jpg" imageurl3="/img/shop_s_product/p4_4.jpg" 
+    imageurl4="/img/shop_s_product/p4_5.jpg"> 
+
+    <id>104</id>
+
+        <name>HIBISCUS PRINT T-SHIRT </name>
+        <price>4,000.00</price>
+        <productinfor>Round neck T-shirt with short sleeves. Contrasting front print.</productinfor>
+
+
+    </product>
+    <product imageurl0="/img/shop_s_product/p5_1.jpg" imageurl1="/img/shop_s_product/p5_2.jpg" 
+    imageurl2="/img/shop_s_product/p5_3.jpg" imageurl3="/img/shop_s_product/p5_4.jpg" 
+   > 
+
+   <id>105</id>
+
+        <name>CHECK POLO SHIRT WITH ZIP </name>
+        <price>4,000.00</price>
+        <productinfor>Polo shirt with front zip fastening and long sleeves with a contrast stripe detail. Welt pockets at the hip. Ribbed trims. Front zip fastening.</productinfor>
+
+
+    </product>
+
+    <product imageurl0="/img/shop_s_product/p6_1.jpg" imageurl1="/img/shop_s_product/p6_2.jpg" 
+    imageurl2="/img/shop_s_product/p6_3.jpg" imageurl3="/img/shop_s_product/p6_4.jpg" 
+   > 
+   <id>106</id>
+
+
+        <name>PRINTED TOP WITH TIES</name>
+        <price>2,700.00</price>
+        <productinfor>Top made of viscose. Round neck and long sleeves. Adjustable hem with ties in the same fabric. Buttoned opening at the back.</productinfor>
+
+
+    </product>
+
+
+    
+    
+</products>

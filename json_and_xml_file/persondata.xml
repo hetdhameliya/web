@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<persons>
+    <person imageurl="/img/contact/pic1.avif">
+        <name>Rubi Soya</name>
+        <post>Fashion Designer</post>
+        <phon>+91 9998919499</phon>
+        <email>rubi7@gmail.com</email>
+    </person>
+    <person imageurl="/img/contact/pic2.jpg">
+        <name>Pradeep Sharma</name>
+        <post>Senior Maeketing Manager</post>
+        <phon>+91 98544087334</phon>
+        <email>Pradeepr88@gmail.com</email>
+    </person>
+
+    <person imageurl="/img/contact/pic3.jpg"> 
+        <name>Shweta Patel</name>
+        <post>CTO/CEO</post>
+        <phon>+91 8780519184</phon>
+        <email>shwetapatel2@gmail.com</email>
+    </person>
+</persons>

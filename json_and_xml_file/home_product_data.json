@@ -1,0 +1,185 @@
+{
+
+    "pdata":[
+     {
+        "img" : "/img/products/item1.jpg",
+        "bname": "ZARA",
+        "name" : "CROPPED JACKET WITH METAL BUTTONS",
+        "price":"2,990.00"
+     },
+     {
+        "img" : "/img/products/item2.jpg",
+        "bname": "ZARA",
+        "name" : "FINE CORDUROY SHIRT",
+        "price":"1,990.00"
+     },
+     {
+        "img" : "/img/products/item3.jpg",
+        "bname": "ZARA",
+        "name" : "SATIN TOP WITH TIE DETAIL",
+        "price":"2,250.00"
+     },
+
+     {
+        "img" : "/img/products/item4.jpg",
+        "bname": "ZARA",
+        "name" : "CHECK OVERSHIRT",
+        "price":"1,590.00"
+     },
+
+     {
+        "img" : "/img/products/item5.jpg",
+        "bname": "ZARA",
+        "name" : "STRAIGHT FIT JEANS",
+        "price":"1,800.00"
+     },
+     {
+        "img" : "/img/products/item6.jpg",
+        "bname": "ZARA",
+        "name" : "FULL-LENGTH WIDE-LEG TRF JEANS",
+        "price":"2,300.00"
+     },
+     {
+        "img" : "/img/products/item7.jpg",
+        "bname": "ZARA",
+        "name" : "HIBISCUS PRINT T-SHIRT",
+        "price":"4,000.00"
+     },
+     {
+        "img" : "/img/products/item8.jpg",
+        "bname": "ZARA",
+        "name" : "RIBBED CUT-OUT TOP",
+        "price":"2,700.00"
+     },
+     {
+        "img" : "/img/products/item9.jpg",
+        "bname": "ZARA",
+        "name" : "SLIM FIT SUIT BLAZER",
+        "price":"5,090.00"
+     },
+
+
+     {
+        "img" : "/img/products/item10.jpg",
+        "bname": "ZARA",
+        "name" : "HOUNDSTOOTH DOUBLE-BREASTED BLAZER",
+        "price":"5,500.00"
+     },
+
+
+     {
+        "img" : "/img/products/item11.jpg",
+        "bname": "ZARA",
+        "name" : "CHECK POLO SHIRT WITH ZIP",
+        "price":"2,150.00"
+     },
+
+     {
+        "img" : "/img/products/item12.jpg",
+        "bname": "ZARA",
+        "name" : "OVERSIZE TROUSERS WITH DARTS - LIMITED EDITION",
+        "price":"2,990.00"
+     }
+
+
+    ],
+
+
+    
+    "p2data":[
+      
+     {
+      "img" : "/img/products2/1.jpg",
+      "bname": "ZARA",
+      "name" : "EMBROIDERED SWEATSHIRT",
+      "price":"2,990.00"
+   },
+
+    
+   {
+      "img" : "/img/products2/2.jpg",
+      "bname": "ZARA",
+      "name" : "FAUX FUR SWEATSHIRT",
+      "price":"1,990.00"
+   },
+
+   {
+      "img" : "/img/products2/3.jpg",
+      "bname": "ZARA",
+      "name" : "SOFT SWEATSHIRT WITH RHINESTONES",
+      "price":"2,250.00"
+   },
+
+
+   {
+      "img" : "/img/products2/4.jpg",
+      "bname": "ZARA",
+      "name" : "ZW THE MARINE STRAIGHT JEANS",
+      "price":"1,590.00"
+   },
+
+
+   {
+      "img" : "/img/products2/5.jpg",
+      "bname": "ZARA",
+      "name" : "TEXTURED PUFFER JACKET",
+      "price":"1,800.00"
+   },
+
+   {
+      "img" : "/img/products2/6.jpg",
+      "bname": "ZARA",
+      "name" : "OVERSIZE WOOL BLEND BOMBER JACKET",
+      "price":"2,300.00"
+   },
+
+   {
+      "img" : "/img/products2/7.jpg",
+      "bname": "ZARA",
+      "name" : "SEQUINNED OVERSIZE BLOUSE",
+      "price":"4,000.00"
+   },
+
+
+   {
+      "img" : "/img/products2/8.jpg",
+      "bname": "ZARA",
+      "name" : "PRINTED TOP WITH TIES",
+      "price":"2,700.00"
+   },
+
+   {
+      "img" : "/img/products2/9.jpg",
+      "bname": "ZARA",
+      "name" : "TEXTURED SHIRT WITH POCKET",
+      "price":"5,090.00"
+   },
+
+   {
+      "img" : "/img/products2/10.jpg",
+      "bname": "ZARA",
+      "name" : "GEOMETRIC JACQUARD KNIT POLO SHIRT",
+      "price":"5,500.00"
+   },
+
+   {
+      "img" : "/img/products2/11.jpg",
+      "bname": "ZARA",
+      "name" : "KNIT 100% CASHMERE POLO SHIRT",
+      "price":"2,150.00"
+   },
+
+   {
+      "img" : "/img/products2/12.jpg",
+      "bname": "ZARA",
+      "name" : "RELAXED FIT CARGO TROUSERS",
+      "price":"2,990.00"
+   }
+    ]
+
+
+}
+
+
+
+
